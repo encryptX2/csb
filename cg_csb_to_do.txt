@@ -1,0 +1,8 @@
+-CG code will have to:
+read weights from code and init network
+	- will require: full Network
+-Allow dual mode - init from stream (for GC)
+				 - init from input objects after simulation
+
+-Simulator will have to - send weights to code
+-simulate(duh)
